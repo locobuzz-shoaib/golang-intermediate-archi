@@ -34,3 +34,8 @@ vendor/
 *.swo
 *.swn
 .DS_Store
+
+# workspace file
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
